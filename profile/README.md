@@ -6,7 +6,7 @@ Since right now everything is so-so and nothing is set in stone expect a more "h
 
 ## Projects:
 
-- Eludris (iconic): A *hopefully* free and open source decentralized federated social media platform with e2ee for stuff that matters heavily inspired by Discord and Reddit with a pinch of Twitter. (WIP hence private for now)
+- Eludris (iconic): A *hopefully* free (as in monetary value & freedom) and open source decentralized federated social media platform with e2ee for stuff that matters heavily inspired by Discord and Reddit with a pinch of Twitter. (WIP hence private for now)
 
 ## Wanna join in?
 
