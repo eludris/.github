@@ -10,4 +10,9 @@ Since right now everything is so-so and nothing is set in stone expect a more "h
 
 ## Wanna join in?
 
-Uhhhhhhhhhhhhhhhhhhhhh just reach out to one of the members and we'll probably reply.
+Check this repository's files.
+
+Note:
+> This was gonna be much harded but it was nerfed because I actually want people to join.
+
+> Oh, you're not a programmer? just contact Enoki ig.
