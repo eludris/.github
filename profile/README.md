@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200em" src="../assets/das_ding.png" />
+  <img width="200em" src="https://github.com/Eludris/.github/blob/main/assets/das_ding.png" />
   <br>
   <a href="https://discord.gg/vV6v2DhWQB"><img src="https://shields.io/discord/980412957060137001?style=for-the-badge&logo=discord&labelColor=15202b&label=Discord%20Server&color=15204c" /></a>
 </p>
