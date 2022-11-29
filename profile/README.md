@@ -15,6 +15,6 @@ Interested? Join our Discord server, we're always up for new friends. <img width
 ## Main Projects
 
 - [Eludris](https://github.com/eludris/eludris): FOSS decentralized federated social media platform with e2ee, heavily
-inspired by Discord, Reddit and Twitter, check [this](https://elusite.pages.dev) out for more info.
+inspired by Discord, Reddit and Twitter, check [this](https://eludris.pages.dev) out for more info.
 - [Cognite](https://github.com/eludris/cognite): A better way to make large scale discord bot's that relies on microservices,
 powered by Apache Kafka, KeyDB and Rust.
