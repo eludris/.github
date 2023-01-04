@@ -3,7 +3,11 @@
 </p>
   <h1 align="center">Eludris</h1>
 <p align="center">
-  <a href="https://discord.gg/vV6v2DhWQB"><img src="https://shields.io/discord/980412957060137001?style=for-the-badge&logo=discord&labelColor=15202b&label=Discord%20Server&color=15204c" /></a>
+  <a href="https://discord.gg/vV6v2DhWQB"><img src="https://shields.io/discord/980412957060137001?style=for-the-badge&logo=discord&labelColor=363934&label=Discord%20Server&color=363934" /></a>
+  <a href="https://reddit.com/r/eludris"><img src="https://img.shields.io/static/v1?&label=%20&style=for-the-badge&message=Reddit&logo=reddit&logoColor=ff5700&color=121212&labelColor=121212" /></a>
+  <a href="https://twitter.com/eludris"><img src="https://img.shields.io/static/v1?&label=%20&style=for-the-badge&message=Twitter&logo=twitter&color=15202b&labelColor=15202b" /></a>
+  <a href="https://eludris.github.io/docs"><img src="https://img.shields.io/static/v1?&label=%20&style=for-the-badge&message=Docs&logo=mdbook&color=211233&labelColor=211233" /></a>
+</p>
 </p>
 
 Right so, Eludris is just a bunch of people ~~who may or may not spend more time
